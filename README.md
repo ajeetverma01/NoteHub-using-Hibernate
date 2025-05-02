@@ -77,11 +77,6 @@ A simple web-based note-taking application built using Java, Servlets, JSP, and 
 
    * Edit `hibernate.cfg.xml` with your MySQL credentials and DB name.
 
-4. **Deploy on Tomcat:**
-
-   * Build and deploy the WAR file to Tomcat.
-   * Start the Tomcat server.
-
 
 
 ## Author

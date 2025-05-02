@@ -48,17 +48,7 @@ A simple web-based note-taking application built using Java, Servlets, JSP, and 
 * JDK 8+
 * Apache Tomcat 8.5+
 * MySQL
-* Maven (if using Maven project)
-
-### Setup Instructions
-
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/your-username/note-taker-app.git
-   cd note-taker-app
-   ```
-
+* Maven 
 
 ## Author
 

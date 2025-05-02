@@ -1,4 +1,4 @@
-# Note Taker Web Application
+# Note Taker Web Application 
 
 A simple web-based note-taking application built using Java, Servlets, JSP, and Hibernate. This application allows users to create, update, delete, and view notes. Hibernate is used for ORM and MySQL is used as the database.
 
@@ -84,7 +84,6 @@ A simple web-based note-taking application built using Java, Servlets, JSP, and 
 
 5. **Access the App:**
 
-   * Visit: `http://localhost:8080/note-taker-app/`
 
 ## Screenshots
 

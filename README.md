@@ -73,10 +73,6 @@ A simple web-based note-taking application built using Java, Servlets, JSP, and 
      );
      ```
 
-3. **Configure Hibernate:**
-
-   * Edit `hibernate.cfg.xml` with your MySQL credentials and DB name.
-
 
 
 ## Author

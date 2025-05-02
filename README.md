@@ -82,8 +82,6 @@ A simple web-based note-taking application built using Java, Servlets, JSP, and 
    * Build and deploy the WAR file to Tomcat.
    * Start the Tomcat server.
 
-5. **Access the App:**
-
 
 ## Screenshots
 

@@ -83,10 +83,6 @@ A simple web-based note-taking application built using Java, Servlets, JSP, and 
    * Start the Tomcat server.
 
 
-## Screenshots
-
-(Add screenshots of your UI here)
-
 
 ## Author
 

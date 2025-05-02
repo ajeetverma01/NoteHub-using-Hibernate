@@ -41,8 +41,6 @@ A simple web-based note-taking application built using Java, Servlets, JSP, and 
 │       └── (Hibernate & MySQL jars)
 ```
 
-## Getting Started
-
 ### Prerequisites
 
 * JDK 8+

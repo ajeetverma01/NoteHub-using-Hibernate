@@ -59,21 +59,6 @@ A simple web-based note-taking application built using Java, Servlets, JSP, and 
    cd note-taker-app
    ```
 
-2. **Configure Database:**
-
-   * Create a database named `notetaker` in MySQL.
-   * Use the following table schema:
-
-     ```sql
-     CREATE TABLE Note (
-         id INT PRIMARY KEY AUTO_INCREMENT,
-         title VARCHAR(255),
-         content TEXT,
-         addedDate DATETIME
-     );
-     ```
-
-
 
 ## Author
 

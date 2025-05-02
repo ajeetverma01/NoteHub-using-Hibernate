@@ -90,18 +90,7 @@ A simple web-based note-taking application built using Java, Servlets, JSP, and 
 
 (Add screenshots of your UI here)
 
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request for any enhancements or bug fixes.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Author
 
 **Ajeet Verma**
-
----
-
-Feel free to connect and share feedback!
